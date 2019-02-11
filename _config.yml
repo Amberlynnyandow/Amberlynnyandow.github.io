@@ -1,11 +1,11 @@
 # Site settings
-author: Amber  Yandow
-title: 
+author: Amber Lynn Yandow 
+title: AmberLynn
 header-img: img/home-bg.png
 email: ay432685@gmail.com
-copyright_name: Amber  Yandow
+copyright_name: Amber Lynn Yandow 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A bartenders beginnings in the world of Data Science 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Amberlynnyandow
