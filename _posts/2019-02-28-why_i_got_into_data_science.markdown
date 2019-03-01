@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Why I got into Data Science."
+title:      "This is the story of how and why I entered the field of Data Science. "
 date:       2019-02-28 17:05:19 -0500
 permalink:  why_i_got_into_data_science
 ---
